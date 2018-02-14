@@ -4,7 +4,7 @@
    <br /><a href="#" data-toggle="popover" title="Contact" 
       data-content="email: us@muddle.com">Contact us</a>
 </div>
-<h1>Great !</h1>
+<h1>Great ! again</h1>
 <script>
 $(document).ready(function(){
     $('[data-toggle="popover"]').popover(); 
