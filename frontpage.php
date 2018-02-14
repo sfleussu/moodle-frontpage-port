@@ -5,3 +5,8 @@
       data-content="email: us@muddle.com">Contact us</a>
 </div>
 <h1>Great !</h1>
+<script>
+$(document).ready(function(){
+    $('[data-toggle="popover"]').popover(); 
+});
+</script>
